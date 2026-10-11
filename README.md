@@ -1,4 +1,4 @@
-* Digisonde manualy labeled tracks dataset
+*  Manually labeled Digisonde tracks dataset
 
 by Berngardt O.I., Ponomarchuk S.N.
 
