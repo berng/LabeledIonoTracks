@@ -1,8 +1,8 @@
-* Digisonde manualy labeled tracks dataset *
+* Digisonde manualy labeled tracks dataset
 
 by Berngardt O.I., Ponomarchuk S.N.
 
-** Data description **
+* Data description
 
 Totally 132 ionogrames, 52 stations over the world.
 
@@ -19,7 +19,7 @@ Usual measured parameters per ionogram:
 Data available under CC BY-NC-SA 4.0 license restrictions.
             https://giro.uml.edu/didbase/RulesOfTheRoad.html
 
-** Files description **
+* Files description
 
 Data in ./dataset in .npz format
 
@@ -27,7 +27,7 @@ View program in ./progs in Python
 
 Exact list of data used in DATA_USED.txt
 
-** Acknowledgements **
+* Acknowledgements
 
 This dataset uses ionospheric data from the USSF SSC NEXION Digisonde network, the NEXION Program Manager is Annette Parsons
 Data from the Brazilian Ionosonde network is made available through the EMBRACE program from the National Institute for Space Research (INPE).
