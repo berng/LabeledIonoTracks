@@ -28,6 +28,7 @@ View program in ./progs in Python
 Exact list of data used in DATA_USED.txt
 
 * Acknowledgements
+  
 We thank Tromsø Geophysical Observatory at UiT the Arctic University of Norway (PI Njål Gulbrandsen) for operating and providing data from the Tromsø digisonde (TR169).
 Data from the Brazilian Ionosonde network is made available through the EMBRACE program from the National Institute for Space Research (INPE).
 This dataset uses data from the ionospheric observatory in Roquetes, Spain, owned and operated by the Fundació Observatori de l'Ebre.
