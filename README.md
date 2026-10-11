@@ -7,7 +7,7 @@ by Berngardt O.I., Ponomarchuk S.N.
 Totally 132 ionogrames, 52 stations over the world.
 
 Data from Lowell GIRO Data Center (LGDC):
-  didbase.gyro.uml.edu
+  giro.uml.edu
 
 Dates used:
   28/12/2021, 28/09/2022, 28/03/2023, 28/06/2024, 00:00UT
