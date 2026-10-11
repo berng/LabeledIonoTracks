@@ -29,7 +29,7 @@ Exact list of data used in DATA_USED.txt
 
 * Acknowledgements
 
-This dataset uses ionospheric data from the USSF SSC NEXION Digisonde network, the NEXION Program Manager is Annette Parsons.
+This dataset uses ionospheric data from the United States Space Force SSC NEXION Digisonde network, the NEXION Program Manager is Annette Parsons.
 Data from the Brazilian Ionosonde network is made available through the EMBRACE program from the National Institute for Space Research (INPE).
 Data from the South African Ionosonde network is made available through the South African National Space Agency (SANSA), who are acknowledged for facilitating and coordinating the continued availability of data.
 This dataset uses data from the ionospheric observatory in Roquetes, Spain, owned and operated by the Fundació Observatori de l'Ebre.
